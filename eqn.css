@@ -1,0 +1,32 @@
+# this is the main file for eqn style
+
+div{
+    backgroun-color: red;
+    border: black solid;
+}
+
+body{
+    width: 800px;
+    margin: auto;
+}
+
+div.top{
+    position: fixed;
+    width:800px;
+    height: 20px;
+    margin: auto;
+    background-color: #feefee;
+    text-align: center;
+}
+
+div.main{
+    padding-top: 20px;
+    margin: auto;
+}
+
+div.bottom{
+    background-color: blue;
+    color:white;
+    width: 100%;
+    clear: both;
+}
